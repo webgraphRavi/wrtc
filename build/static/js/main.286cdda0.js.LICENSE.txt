@@ -1,0 +1,199 @@
+/*!
+   * Sizzle CSS Selector Engine v2.2.1
+   * http://sizzlejs.com/
+   *
+   * Copyright jQuery Foundation and other contributors
+   * Released under the MIT license
+   * http://jquery.org/license
+   *
+   * Date: 2015-10-17
+   */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * jQuery JavaScript Library v1.12.1
+ * http://jquery.com/
+ *
+ * Includes Sizzle.js
+ * http://sizzlejs.com/
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2016-02-22T19:07Z
+ */
+
+/*! https://mths.be/utf8js v2.1.2 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.3.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.7.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+//! add listner to whiteboard
+
+//! add local track to the connection,
+
+//! append file to the chat panel
+
+//! append message to chat body
+
+//! append whiteboard
+
+//! before leaving the page, close socket and peer connections
+
+//! create and send an offer for newly joined user
+
+//! dispay file on button click
+
+//! download file on button click
+
+//! empty file value on modal close
+
+//! end the meeting
+
+//! enter into fullscreen mode with double click on video
+
+//! get all the audio and video streams
+
+//! get current call time in readable format
+
+//! handle answer and set remote description
+
+//! handle candidate and add ice candidate
+
+//! handle file
+
+//! handle message and append it
+
+//! handle new event on whiteboard
+
+//! handle offer from initiator, create and send an answer
+
+//! handle when opponent leaves the call
+
+//! hide modal on file send button click
+
+//! hide/show certain call related details
+
+//! ice candidate and state change event
+
+//! initialize the call
+
+//! listen for message form submit event and send message
+
+//! listen for socket message event and handle it
+
+//! listen for timer update event and display during the call
+
+//! listen on file input change
+
+//! manage checkRoom result
+
+//! manage remote track,
+
+//! mute/unmute local video
+
+//! open file exploler
+
+//! page scroll
+
+//! set onload event on iframe
+
+//! set whiteboard tools
+
+//! show error toaster
+
+//! show success toaster
+
+//! show warning toaster
+
+//! show whiteboard
+
+//! socket connected
+
+//! start screen share
+
+//! start the recording and send chunks to the server
+
+//! stop recording and notify opponent
+
+//! stop screen share
+
+//! stringify the data and send it to opponent
+
+//! switch front/back camera for mobile users
+
+//! toggle chat panel
+
+//! toggle picture-in-picture mode with click on video
+
+//! toggle screen share
